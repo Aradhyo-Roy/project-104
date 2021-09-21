@@ -1,0 +1,19 @@
+body{
+    color: whitesmoke;
+    background-color: darkslategrey;
+    background: linear-gradient(black 0%, darkgreen 50%, darkslategrey 100%);
+}
+.heading{
+    width: 80%;
+    font-size:large;
+}
+#camera{
+    border-style: dashed;
+    border-color: black;
+    height: 300px;
+    width: 350px;
+}
+#name_of_the_objects, #result_object_name, #result_object_accuracy{
+    color: yellow;
+    font-size: small;
+}
